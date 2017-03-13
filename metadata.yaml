@@ -1,5 +1,8 @@
 _repo: Everybody-s-Business-Is-Nobody-s-Business--13-Or-Private-Abuses-Public-Grievances--Exemplified__2052
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2052#Everybody-s-Business-Is-Nobody-s-Business--13-Or-Private-Abuses-Public-Grievances--Exemplified_
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
 identifiers:
